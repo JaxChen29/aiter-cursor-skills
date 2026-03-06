@@ -41,6 +41,12 @@ cp /path/to/aiter-cursor-skills/rules/aiter.md .cursor/rules/
 
 Add your own skills here. See `skills/personal/` for examples.
 
+## Practices Index
+
+| Case Study | Summary |
+|------------|---------|
+| [64bit-addr-overflow-fix](practices/64bit-addr-overflow-fix.md) | Fixing 32-bit address overflow in SP3 buffer descriptor computations for large tensors |
+
 ## Adding a new practice
 
 Create a markdown file in `practices/` following this structure:
