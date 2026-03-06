@@ -2,18 +2,20 @@
 
 ## Active
 
-- [ ] [2026-03-06] Create daily report and task pool system for aiter-cursor-skills
-- [ ] [2026-03-06] Investigate CK fallback perf gap for ODO kernel
+- [ ] [2026-03-06] AI agent workflow practice -- apply AI agent to automate every workflow (long-term)
+- [ ] [2026-03-06] Learn gfx12 HW tech document for FMHA BWD kernel work (long-term)
+- [ ] [2026-03-06] Push PR to poc_kl with SP3 file changes (short-term, in progress)
+- [ ] [2026-03-06] Exclude CK dependency from FMHA BWD v3 (urgent, short-term)
+- [ ] [2026-03-06] Learn English (free time, delayed)
+- [ ] [2026-03-06] Work out in gym -- reduce weight (daily)
 
 ## Backlog
 
+- [ ] Investigate CK fallback perf gap for ODO kernel
 - [ ] Add CI test for large-addr regression
 - [ ] Add SWA mask support for D192 backward kernels
 - [ ] Explore gfx950 forward kernel porting
 
 ## Completed (recent)
 
-- [x] [2026-03-04] Fix D64 dQ VGPR overflow in Genl kernels -- completed 2026-03-05
-- [x] [2026-03-04] Fix D128/D192 64-bit address overflow -- completed 2026-01-27
-- [x] [2026-03-06] Add doc-analysis and enhanced code-review skills
-- [x] [2026-03-06] Add 64-bit addr overflow practice case study
+- [x] [2026-03-06] AI agent practice: built aiter-cursor-skills repo with Cursor skills -- completed 2026-03-06
