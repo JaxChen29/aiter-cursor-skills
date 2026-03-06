@@ -33,8 +33,9 @@ cp /path/to/aiter-cursor-skills/rules/aiter.md .cursor/rules/
 | Skill | Description |
 |-------|-------------|
 | [aiter-dev](skills/general/aiter-dev.md) | Build, test, and contribute to the aiter project |
-| [kernel-workflow](skills/general/kernel-workflow.md) | Full SP3 shader build/test/debug cycle for FMHA BWD kernels |
-| [code-review](skills/general/code-review.md) | PR and code review conventions for aiter |
+| [kernel-workflow](skills/general/kernel-workflow.md) | Generic SP3 shader build/test/debug cycle for any kernel change |
+| [code-review](skills/general/code-review.md) | Code review, auto PR description, and push workflow (general + aiter) |
+| [doc-analysis](skills/general/doc-analysis/SKILL.md) | Parse PDFs/markdown/code and export tech reports (MD, PDF, PPTX) |
 | [env-setup](skills/general/env-setup.md) | Docker container, toolchain, and environment setup |
 
 ### Personal
