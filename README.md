@@ -10,6 +10,8 @@ Cursor Agent Skills, Rules, and practices for aiter kernel development on AMD MI
 | `skills/personal/` | Personal skills tuned to individual setups |
 | `practices/` | Case studies of real problems solved (problem / investigation / solution / lessons) |
 | `rules/` | Cursor rules providing project context (copy into your project's `.cursor/rules/`) |
+| `reports/` | Weekly report files with daily entries (progress, problems, achievements) |
+| `tasks.md` | Persistent task pool (Active / Backlog / Completed) |
 
 ## Quick Start
 
@@ -40,7 +42,9 @@ cp /path/to/aiter-cursor-skills/rules/aiter.md .cursor/rules/
 
 ### Personal
 
-Add your own skills here. See `skills/personal/` for examples.
+| Skill | Description |
+|-------|-------------|
+| [daily-report](skills/personal/daily-report.md) | Daily work report, task pool management, and workday reminders |
 
 ## Practices Index
 
