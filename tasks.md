@@ -6,6 +6,7 @@
 - [ ] [2026-03-06] Learn gfx12 HW tech document for FMHA BWD kernel work (long-term)
 - [ ] [2026-03-06] Push PR to poc_kl with SP3 file changes (short-term, in progress)
 - [ ] [2026-03-06] Exclude CK dependency from FMHA BWD v3 (urgent, short-term)
+- [ ] [2026-03-10] Fix perf issue reported from ML Perf training (urgent, short-term)
 - [ ] [2026-03-06] Learn English (free time, delayed)
 - [ ] [2026-03-06] Work out in gym -- reduce weight (daily)
 
