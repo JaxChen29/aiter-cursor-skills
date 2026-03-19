@@ -7,6 +7,7 @@
 - [ ] [2026-03-06] Push PR to poc_kl with SP3 file changes (short-term, ready but not submitted)
 - [ ] [2026-03-19] Exclude CK dependency from FMHA FWD v3 -- PR ready, waiting for CI
 - [ ] [2026-03-19] MXFP8 quant model training experiment (new)
+- [ ] [2026-03-19] Deploy Claude Code and run through workflow with skills (new)
 - [ ] [2026-03-06] Learn English (free time, delayed)
 - [ ] [2026-03-06] Work out in gym -- reduce weight (daily)
 
