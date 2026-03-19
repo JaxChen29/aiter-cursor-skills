@@ -264,3 +264,8 @@ bash smoke_test_fwd_v3.sh -a gfx942
 
 5. **Non-regression**: Full CK modules (`module_mha_fwd`, `module_mha_varlen_fwd`) are
    unaffected -- they get `ENABLE_CK=1` from the core.py default, so all CK code is compiled.
+
+6. **`compile_template_op` path**: Modules built via `csrc/cpp_itfs/utils.py`'s `compile_lib()`
+   (e.g., `pa_ragged`, `pa_v1`) bypass `core.py`'s `build_module()` entirely. They have their
+   own flag list in `compile_lib()` and need `-DENABLE_CK=1` added there explicitly. Missing
+   this caused CI failures where PA modules got the shim instead of real CK headers.
