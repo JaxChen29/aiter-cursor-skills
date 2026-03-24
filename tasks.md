@@ -4,8 +4,8 @@
 
 - [ ] [2026-03-06] AI agent workflow practice -- apply AI agent to automate every workflow (long-term)
 - [ ] [2026-03-06] Learn gfx12 HW tech document for FMHA BWD kernel work (long-term)
-- [ ] [2026-03-19] MXFP8 quant model training experiment (new)
-- [ ] [2026-03-19] Deploy Claude Code and run through workflow with skills (new)
+- [ ] [2026-03-19] MXFP8 quant model training experiment -- reproducing first, HuggingFace permission applying
+- [ ] [2026-03-19] Deploy Claude Code and run through workflow with skills -- usable but not 100%
 - [ ] [2026-03-06] Learn English (free time, delayed)
 - [ ] [2026-03-06] Work out in gym -- reduce weight (daily)
 
